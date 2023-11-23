@@ -1,0 +1,15 @@
+- Frame the problem
+    - What exactly is the business objective
+    - What the current solution looks like (reference performance)
+    - Supervised? Unsupervised? Reinforcement Learning? Classification? Regression? Batch Learning? Online Learning?
+    - Select a performance measure
+    - Check the assumptions
+
+- Get the data
+    - Train/test sets
+    - Random sampling? Stratified sampling?
+- Visualize the data to gain insights
+- Understand possible correlations
+- Data cleaning
+- Feature scaling?
+
