@@ -1,6 +1,6 @@
 # Learning-machine-learning
 
-This repository is designed to be a future source of the fundamental concepts concerning Machine Learning technics. The contents are divided into the fundamentals, providing state-of-art code for most known models found in `Fundamental-concepts` folder, and `Hands-on-ML`, where modern ML tools (Scikit-Learn, Tensorflow, and Keras) used in analysis based on the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow".
+This repository is designed to be a future source of the fundamental concepts concerning Machine Learning technics. The contents are divided into the basic concepts, providing state-of-art code for some models found in `Fundamental-concepts` folder, and `Hands-on-ML`, where modern ML tools (Scikit-Learn, Tensorflow, and Keras) are described (based on the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow").
 
 Brief description of the Jupyter notebooks in the `Fundamental-concepts`:
 
