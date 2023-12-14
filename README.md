@@ -1,6 +1,8 @@
 # Learning-machine-learning
 
-This repository is designed to be a future source of concepts concerning basic Machine Learning technics, applied over simple problems. The list of contents:
+This repository is designed to be a future source of the fundamental concepts concerning Machine Learning technics. The contents are divided into the fundamentals, providing state-of-art code for most known models found in `Fundamental-concepts` folder, and `Hands-on-ML`, where modern ML tools (Scikit-Learn, Tensorflow, and Keras) used in analysis based on the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow".
+
+Brief description of the Jupyter notebooks in the `Fundamental-concepts`:
 
 - `simple_linear_regression.ipynb`: explains how to implement a cost function to fit data to a linear model (also using scikit-learn)
 - `multiple_linear_regression.ipynb`: the same of latter notebook, but using multiple features
