@@ -1,6 +1,6 @@
 # Learning-machine-learning
 
-This repository is designed to be a future source of the fundamental concepts concerning Machine Learning technics. The contents are divided into the basic concepts, providing state-of-art code for some models found in `Fundamental-concepts` folder, and `Hands-on-ML`, where modern ML tools (Scikit-Learn, Tensorflow, and Keras) are described (based on the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow").
+This repository is designed to be a future source of the fundamental concepts concerning Machine Learning technics. The contents are divided into the basic concepts, providing state-of-art code for some models found in `Fundamental-concepts` folder, whereas in `Hands-on-ML` modern ML tools (Scikit-Learn, Tensorflow, and Keras) are explored (based on the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow").
 
 Brief description of the Jupyter notebooks in the `Fundamental-concepts`:
 
@@ -13,3 +13,5 @@ Brief description of the Jupyter notebooks in the `Fundamental-concepts`:
 - `binary_digit_classification.ipynb`: use neural networks with tensorflow and keras to recognize handwritten 0 and 1 images
 - `multi_class_digit_classification.ipynb`: same as latter, but for digits from 0 to 9
 - `decision_trees.ipynb`: classification of credit score (Poor, Standard and Good) using a decision trees, random forest and XGBoost
+
+In the `Hands-on-ML` it is provided a series of notebooks using more suited ML tools (Scikit-Learn, Tensorflow, and Keras) with similar but more extensive topics.
