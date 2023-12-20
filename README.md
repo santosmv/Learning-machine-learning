@@ -1,4 +1,4 @@
-# Learning-machine-learning
+# Learning-Machine-Learning
 
 This repository is designed to be a future source of the fundamental concepts concerning Machine Learning technics. The contents are divided into the basic concepts, providing state-of-art code for some models found in `Fundamental-concepts` folder, whereas in `Hands-on-ML` modern ML tools (Scikit-Learn, Tensorflow, and Keras) are explored (based on the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow").
 
@@ -14,4 +14,4 @@ Brief description of the Jupyter notebooks in the `Fundamental-concepts`:
 - `multi_class_digit_classification.ipynb`: same as latter, but for digits from 0 to 9
 - `decision_trees.ipynb`: classification of credit score (Poor, Standard and Good) using a decision trees, random forest and XGBoost
 
-In the `Hands-on-ML` it is provided a series of notebooks using more suited ML tools (Scikit-Learn, Tensorflow, and Keras) with similar but more extensive topics.
+In the `Hands-on-ML` it is provided a series of notebooks using more suited ML tools (Scikit-Learn, Tensorflow, and Keras) with similar but more extensive topics. It worth highlighting the classical analysis of the Titanic dataset in `titanic.ipynb`, as well as the implementation of a simple e-mail SPAM classifier with >99% of tested accuracy (100% precision and >96% of recall) to detect SPAM e-mails in the [Apache SpamAssassin’s dataset](https://spamassassin.apache.org/old/publiccorpus/).
