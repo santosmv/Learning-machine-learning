@@ -1,4 +1,4 @@
-# Learning Machine-Learning
+# Learning Machine Learning
 
 This repository is designed to be a future source of the fundamental concepts concerning Machine Learning technics. The contents are divided into the basic concepts, providing state-of-art code for some models found in `Fundamental-concepts` folder, whereas in `Hands-on-ML` modern ML tools (Scikit-Learn, Tensorflow, and Keras) are explored (based on the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow").
 
