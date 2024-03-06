@@ -1,7 +1,7 @@
 # To run the code: streamlit run app-dashboard.py
 
 import streamlit as st
-from datetime import datetime, timedelta
+from datetime import datetime
 import pandas as pd
 import yfinance as yf
 import plotly.graph_objs as go
@@ -11,7 +11,7 @@ countries = ['united states']
 # 1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 1d, 5d, 1wk, 1mo, 3mo
 intervals = ['1d', '1wk', '1mo']
 
-start_date = datetime.today() - timedelta(days=30)
+start_date = datetime.today() - pd.to_timedelta(arg='30 days')
 end_date = datetime.today()
 
 @st.cache_data
